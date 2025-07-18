@@ -12,9 +12,11 @@ Podczas kursu poznałam podstawy języka T-SQL, m.in.:
 - Łączenie tabel (`JOIN`)
 - Agregowanie danych (`GROUP BY`, `HAVING`)
 - Podzapytania
-- Aliasowanie tabel i kolumn
+- Aliasowanie tabel i kolumn (`AS`)
 - Podstawowe typy danych
 - Obsługa wartości `NULL`
+- Funkcje wbudowane (`ROUND`,`LOWER`,`DATENAME`,`SUM`)
+- Edycja danych (`INSERT`, `UPDATE`,`DELETE`)
 - Pisanie czytelnych i zrozumiałych zapytań
 
 ## 💻 Narzędzia
